@@ -31,7 +31,9 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 
 # 🚇 文档
 
-0️⃣  基础知识：@0xRory
+状态 🏃 进行中 ❤️ 任领(人员添加) 🔍 小夥伴检视中 🎉 完成
+
+0️⃣  基础知识：❤️ @0xRory
 
 - MetaMask + 多浏览器 + 合约钱包
 - MVM Scan : etherscan、bscscan、polygonscan，chainlist.org，filecoinscan
@@ -87,7 +89,7 @@ Defi:
 
 2️⃣  開發：
 
-0.全站的基本瞭解 @Rory
+0.全站的基本瞭解 ❤️ @0xRory
 
 * web3架構教學
 
