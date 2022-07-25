@@ -137,6 +137,15 @@ Defi:
 
 ## 🔱 贡献者 🔱
 
+<div align="center">
+  <h4 align="center">
+    感谢所有贡献者
+  </h4>
+  <a href="https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=SeeDAO-OpenSource/DEV-NoviceVillage" />
+  </a>
+</div>
+
 
 ## License
 
