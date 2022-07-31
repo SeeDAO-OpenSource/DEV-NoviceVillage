@@ -1,3 +1,7 @@
+# 基础环境搭建
+
+整理者：0xRory
+
 ## Git
 
 ### 1.安装
@@ -14,7 +18,7 @@
 
 - 常用命令
 
-![git命令](E:\工作\Web3\Task\git命令.png)
+![git命令](https://github.com/boombb12138/DEV-NoviceVillage/blob/patch-1/git%E5%91%BD%E4%BB%A4.png)
 
 - git所有命令列表
 
@@ -36,12 +40,16 @@
 
 #### window版
 
-[[(3条消息) node.js安装及环境配置超详细教程【Windows系统安装包方式】_明金同学的博客-CSDN博客_nodejs安装及环境配置](https://blog.csdn.net/weixin_44893902/article/details/121788104?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165871732616781818746736%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165871732616781818746736&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-2-121788104-null-null.142^v33^control,185^v2^control&utm_term=node&spm=1018.2226.3001.4187)](https://blog.csdn.net/zhangdaiscott/article/details/106114007?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165867368216782390564872%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165867368216782390564872&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-106114007-null-null.142^v33^control,185^v2^control&utm_term=node&spm=1018.2226.3001.4187)
+http://t.csdn.cn/1k1nN
+
+http://t.csdn.cn/mtT2b
 
 最后一步用管理员运行cmd还报错的看往这
 Node.js Express安装报错总结
 express 4.x版本之前 全局安装express 命令是 npm install express -g
 express 4.x版本之后 全局安装express 命令是 npm install -g express-generator
+
+
 
 #### Linux
 
@@ -65,9 +73,9 @@ sudo apt install nodejs
 
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.35.2/install.sh | bash
-nvm install 12
-nvm use 12
-nvm alias default 12
+nvm install 16
+nvm use 16
+nvm alias default 16
 npm install npm --global ## 将npm升级到最新版本
 
 ```
@@ -186,7 +194,7 @@ npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffl
 
 ```
 
-将高亮行 添加到你的中，如下所示：`require("@nomiclabs/hardhat-waffle");``hardhat.config.js`
+将高亮行`require("@nomiclabs/hardhat-waffle")` 添加到你的`hardhat.config.js`中，如下所示：
 
 ```
 require("@nomiclabs/hardhat-waffle");
@@ -200,7 +208,7 @@ module.exports = {
 
 ```
 
-这里引入，因为它依赖于，因此不需要同时添加两个。`hardhat-waffle``hardhat-ethers`
+这里引入`hardhat-waffle`，因为它依赖于`hardhat-ethers`，因此不需要同时添加两个。
 
 
 
