@@ -22,7 +22,7 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 # 🏭 Roadmap ：
 初阶文档知识 → 综合性基础理解 → 开发 → 进阶开发 Talk   🛫
 
-# 🖌 進行模式：
+# 🖌 进行模式：
 
 初期开发者工会内小夥伴们任领成为贡献者，主要撰写`Readem`为主和 `提供辅助代码`
 共写模式如有疑问可以发起 issues 讨论及修正。
@@ -39,31 +39,31 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 - MVM Scan : etherscan、bscscan、polygonscan，chainlist.org，filecoinscan
 - 工具使用 Debank
 
-1️⃣  綜合性理解：by Remix 快速理解
+1️⃣ 综合性理解：by Remix 快速理解
 
 Token:
 
-- ERC20 語法導讀
+- ERC20 语法导读
 
-- 用 ERC20 發幣，操作 ERC20 合約
+- 用 ERC20 发币，操作 ERC20 合约
 
 NFT:
 
-- ERC721  語法導讀
+- ERC721  语法导读
 
-- ERC1155 語法導讀
+- ERC1155 语法导读
 
-- 用 ERC721、ERC721A、ERC1155 鑄造 NFT，
+- 用 ERC721、ERC721A、ERC1155 铸造 NFT，
 
-- 操作 ERC721 、ERC721A、ERC1155 合約
+- 操作 ERC721 、ERC721A、ERC1155 合约
 
 - 白名单添加
 
 Opensea:
 
-* Opensea 教學
+* Opensea 教学
 
-* 創建頁面
+* 创建页面
 
 * Opensea Contract
 
@@ -71,43 +71,43 @@ Opensea:
 
 * Metadata 格式
 
-Ｗeb3 儲存
+Ｗeb3 储存
 
-* 用 IPFS 上傳圖片
+* 用 IPFS 上传图片
 
 * [https://nft.storage/](https://nft.storage/)
 
 Defi:
 
-* 概念(流動性增加，兌換機制)
+* 概念(流动性增加，兑换机制)
 
 * Uniswap
 
-* 操作的方法、風險管理
+* 操作的方法、风险管理
 
-* 多簽錢包, 簽名概念(原理）
+* 多签钱包, 签名概念(原理）
 
-2️⃣  開發：
+2️⃣  开发：
 
-0.全站的基本瞭解 ❤️ @0xRory
+0.全站的基本了解 ❤️ @0xRory
 
-* web3架構教學
+* web3架构教学
 
 
-1.基礎開發環境
+1.基础开发环境
 
-* 環境建置 (Git, node, npm/yarn/pnpm, Hardhat, VSCode & Extensions）
+* 环境建置 (Git, node, npm/yarn/pnpm, Hardhat, VSCode & Extensions）
 
 
 2.Hardhat 控制
 
-* 透過Hardhart 部署合約
+* 透过Hardhart 部署合约
 
 * Hardhat 基本操作 deply、Verify ... 
 
-* 查找/操作 Etherscan 上的合約
+* 查找/操作 Etherscan 上的合约
 
-3.腳手架 React or Vue or next.js
+3.脚手架 React or Vue or next.js
 
 * UI：Bootstrap/tailwind
 
@@ -116,13 +116,13 @@ Defi:
   - ethers.js
   - WAGMI hooks
 
-4.網頁串接區塊鏈資料與連結錢包
+4.网页串接区块链资料与连结钱包
   * 去 Etherscan 拉 Abi+ 控制
 
-5.  proxy 合約原理
+5.  proxy 合约原理
 6.  The Graph（SubGraph）, appollo
 7.  Storage: Ar, IPFS
-8.  Serverside API: Go, gin (CRUD) 後台服務
+8.  Serverside API: Go, gin (CRUD) 后台服务
 9.  Chainlink VRF
 10. MEV
 11. Defi
