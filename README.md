@@ -26,6 +26,8 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 
 初期开发者工会内小夥伴们任领成为贡献者，主要撰写`Readem`为主和 `提供辅助代码`
 共写模式如有疑问可以发起 issues 讨论及修正。
+[如何协作参考](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/tree/master/%E5%A6%82%E4%BD%95%E5%85%B1%E5%90%8C%E5%8D%8F%E4%BD%9C) 🙆
+
 有什么想法可至 [Discord](https://discord.com/channels/841189467128594442/981541836076220507) 内发起讨论。
 
 
