@@ -1,5 +1,7 @@
 # Metadata
 
+整理者：[北屿一木](https://github.com/iNorthIsle)
+
 Metadata 通常直译为“元数据”，本质上是 NFT 内容的描述数据，遵循 JSON 的数据格式标准。
 
 Metadata 是铸造 NFT 流程中重要的一环，如果 Metadata 的数据格式不符合标准，那么在像 OpenSea 这样的 NFT 平台上是无法正确显示 NFT 相关的属性信息，比如名称、描述和图像等等。
