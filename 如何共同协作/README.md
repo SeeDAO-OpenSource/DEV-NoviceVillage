@@ -16,3 +16,7 @@
 
 5. 提供意见或修改
 ![Getting Started](./images/review.png)
+
+至于撰写可是可以参考下列模版
+
+[协作格式](./协作格式/README.md)

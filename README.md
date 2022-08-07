@@ -26,6 +26,8 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 
 初期开发者工会内小夥伴们任领成为贡献者，主要撰写`Readem`为主和 `提供辅助代码`
 共写模式如有疑问可以发起 issues 讨论及修正。
+[如何协作参考](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/tree/master/%E5%A6%82%E4%BD%95%E5%85%B1%E5%90%8C%E5%8D%8F%E4%BD%9C) 🙆
+
 有什么想法可至 [Discord](https://discord.com/channels/841189467128594442/981541836076220507) 内发起讨论。
 
 
@@ -36,20 +38,29 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 0️⃣  基础知识：❤️ @0xRory
 
 - MetaMask + 多浏览器 + 合约钱包
-- MVM Scan : etherscan、bscscan、polygonscan，chainlist.org，filecoinscan
+- MVM Scan :
+  - etherscan
+  - bscscan
+  - polygonscan
+  - chainlist.org
+  - filecoinscan
 - 工具使用 Debank
 
 1️⃣ 综合性理解：by Remix 快速理解
 
 Token:
 
-- ERC20 语法导读
+- ERC20 语法导读 🔍 [连结](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/blob/master/1.%E7%BB%BC%E5%90%88%E6%80%A7%E7%90%86%E8%A7%A3/Token/ERC20-%E6%A0%87%E5%87%86%E6%BA%90%E4%BB%A3%E7%A0%81-%E8%AF%AD%E6%B3%95%E5%AF%BC%E8%AF%BB.md)   🙋🙋🙋 [yuan](https://github.com/dandansad)
 
-- 用 ERC20 发币，操作 ERC20 合约
+
+
+- 用 ERC20 发币，操作 ERC20 合约 [连结](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/tree/master/1.%E7%BB%BC%E5%90%88%E6%80%A7%E7%90%86%E8%A7%A3/Token/%E9%83%A8%E7%BD%B2%E5%92%8C%E8%B0%83%E7%94%A8ERC20%E5%90%88%E7%BA%A6)   🙋🙋🙋 [flowfire](https://github.com/flowfire)
+
+
 
 NFT:
 
-- ERC721  语法导读
+- ERC721  语法导读 🔍 [连结](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/blob/master/1.%E7%BB%BC%E5%90%88%E6%80%A7%E7%90%86%E8%A7%A3/NFT/ERC721%E8%AA%9E%E6%B3%95%E5%B0%8E%E8%AE%80.md)   🙋🙋🙋 [Captain-Tab](https://github.com/Captain-Tab)
 
 - ERC1155 语法导读
 
@@ -69,7 +80,7 @@ Opensea:
 
 * Opensea 流程
 
-* Metadata 格式
+* Metadata 格式 [连结](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/blob/master/1.%E7%BB%BC%E5%90%88%E6%80%A7%E7%90%86%E8%A7%A3/Opensea/metadata/Metadata%20%E6%A0%BC%E5%BC%8F.md) 🙋🙋🙋 [北屿一木](https://github.com/iNorthIsle)
 
 Ｗeb3 储存
 
@@ -97,6 +108,7 @@ Defi:
 1.基础开发环境
 
 * 环境建置 (Git, node, npm/yarn/pnpm, Hardhat, VSCode & Extensions）
+[连结](https://github.com/SeeDAO-OpenSource/DEV-NoviceVillage/blob/master/2.%E5%BC%80%E5%8F%91/1.%E5%9F%BA%E7%A1%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/REDME.md) 🙋🙋🙋 [boombb12138](https://github.com/boombb12138)
 
 
 2.Hardhat 控制
