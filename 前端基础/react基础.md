@@ -1,6 +1,6 @@
 ## 前言
 
-hello, 大家好。 这里是SeeDAO的新手村教学，很高兴又见面啦。在前面的教学中，相信小伙伴们了解并知道了web3的架构，git，node环境的配置,VScode, Javascript等基础知识。接下来，在本节中，我会从自己的理解来讲解**react**的使用，以及**ChakraUI**库的使用以及**Ethereum与页面的交互**。
+hello, 大家好。我是react教学的整理者[lidachao111222](https://github.com/lidachao111222)。 这里是SeeDAO的新手村教学，很高兴又见面啦。在前面的教学中，相信小伙伴们了解并知道了web3的架构，git，node环境的配置,VScode, Javascript等基础知识。接下来，在本节中，我会从自己的理解来讲解**react**的使用，以及**ChakraUI**库的使用以及**Ethereum与页面的交互**。 
 
 ---
 
